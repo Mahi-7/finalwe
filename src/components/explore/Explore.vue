@@ -44,7 +44,7 @@
       <div class="card img-fluid " style="width:500px">
         <img
           class="card-img-top"
-          src="src/assets/8.jpeg"
+          src="https://github.com/Mahi-7/git/blob/master/8.jpeg?raw=true"
           alt="Card image"
           style="width:100%"
         />
@@ -60,7 +60,7 @@
       <div class="card img-fluid" style="width:500px">
         <img
           class="card-img-top"
-          src="src/assets/7.jpeg"
+          src="https://github.com/Mahi-7/git/blob/master/7.jpeg?raw=true"
           alt="Card image"
           style="width:100%"
         />
@@ -76,7 +76,7 @@
       <div class="card img-fluid" style="width:500px">
         <img
           class="card-img-top"
-          src="src/assets/6.jpeg"
+          src="https://github.com/Mahi-7/git/blob/master/6.jpeg?raw=true"
           alt="Card image"
           style="width:100%"
         />
@@ -92,7 +92,7 @@
       <div class="card img-fluid" style="width:500px">
         <img
           class="card-img-top"
-          src="src/assets/2.jpeg"
+          src="https://github.com/Mahi-7/git/blob/master/2.jpeg?raw=true"
           alt="Card image"
           style="width:100%"
         />
@@ -108,7 +108,7 @@
       <div class="card img-fluid" style="width:500px">
         <img
           class="card-img-top"
-          src="src/assets/gold.png"
+          src="https://github.com/Mahi-7/git/blob/master/gold.png?raw=true"
           alt="Card image"
           style="width:100%"
         />
@@ -123,7 +123,7 @@
       </div><div class="card img-fluid" style="width:500px">
         <img
           class="card-img-top"
-          src="src/assets/5.jpeg"
+          src="https://github.com/Mahi-7/git/blob/master/5.jpeg?raw=true"
           alt="Card image"
           style="width:100%"
         />
@@ -138,7 +138,7 @@
       </div><div class="card img-fluid" style="width:500px">
         <img
           class="card-img-top"
-          src="src/assets/4.jpeg"
+          src="https://github.com/Mahi-7/git/blob/master/4.jpeg?raw=true"
           alt="Card image"
           style="width:100%"
         />
@@ -153,7 +153,7 @@
       </div><div class="card img-fluid" style="width:500px">
         <img
           class="card-img-top"
-          src="src/assets/3.jpeg"
+          src="https://github.com/Mahi-7/git/blob/master/3.jpeg?raw=true"
           alt="Card image"
           style="width:100%"
         />
@@ -168,7 +168,7 @@
       </div><div class="card img-fluid" style="width:500px">
         <img
           class="card-img-top"
-          src="src/assets/2.jpeg"
+          src="https://github.com/Mahi-7/git/blob/master/2.jpeg?raw=true"
           alt="Card image"
           style="width:100%"
         />
@@ -183,7 +183,7 @@
       </div><div class="card img-fluid" style="width:500px">
         <img
           class="card-img-top"
-          src="src/assets/1.jpeg"
+          src="https://github.com/Mahi-7/git/blob/master/1.jpeg?raw=true"
           alt="Card image"
           style="width:100%"
         />
