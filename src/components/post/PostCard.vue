@@ -2,7 +2,7 @@
 <div>
 <div class="card my-2" id="post">
     <div class="card-header bg-white">
-      <img src="src/assets/avatar-1.png" class="avatar-img mr-2">
+      <img src="https://github.com/Mahi-7/git/blob/master/avatar-1.png?raw=true" class="avatar-img mr-2">
       <p class="ml-2 h6 font-weight-bold mt-2" >Alexa</p>
       <div class="ml-auto"><a class="text-light bg-info p-1" style="border-radius: 50px;" href="#">#wakandaforever</a></div>
        <div class="dropdown">
@@ -21,7 +21,7 @@
     </div>
     <div class="card-body">
       <p class="card-text text-center font-weight-bold">
-          <img src="src/assets/3.jpeg" alt="" class="w-100" />
+          <img src="https://github.com/Mahi-7/git/blob/master/3.jpeg?raw=true" alt="" class="w-100" />
       </p>
       <hr/>
       <div>
@@ -51,7 +51,7 @@
   </div>
   <div class="card my-2" id="post">
     <div class="card-header bg-white">
-      <img src="src/assets/avatar-4.png" class="avatar-img mr-2">
+      <img src="https://github.com/Mahi-7/git/blob/master/avatar-4.png?raw=true" class="avatar-img mr-2">
       <p class="ml-2 h6 font-weight-bold mt-2" >Ninja</p>
       <div class="ml-auto"><a class="text-light bg-info p-1" style="border-radius: 50px;" href="#">#greenbangalore</a></div>
        <div class="dropdown">
@@ -70,7 +70,7 @@
     </div>
     <div class="card-body">
       <p class="card-text text-center font-weight-bold">
-          <img src="src/assets/4.jpeg" alt="" class="w-100" />
+          <img src="https://github.com/Mahi-7/git/blob/master/4.jpeg?raw=true" alt="" class="w-100" />
       </p>
       <hr/>
       <div>
@@ -100,7 +100,7 @@
   </div>
   <div class="card my-2" id="post">
     <div class="card-header bg-white">
-      <img src="src/assets/avatar-5.png" class="avatar-img mr-2">
+      <img src="https://github.com/Mahi-7/git/blob/master/avatar-5.png?raw=true" class="avatar-img mr-2">
       <p class="ml-2 h6 font-weight-bold mt-2" >Siri</p>
       <div class="ml-auto"><a class="text-light bg-info p-1" style="border-radius: 50px;" href="#">#asgard</a></div>
        <div class="dropdown">
@@ -119,7 +119,7 @@
     </div>
     <div class="card-body">
       <p class="card-text text-center font-weight-bold">
-          <img src="src/assets/5.jpeg" alt="" class="w-75" />
+          <img src="https://github.com/Mahi-7/git/blob/master/5.jpeg?raw=true" alt="" class="w-75" />
       </p>
       <hr/>
       <div>
@@ -149,7 +149,7 @@
   </div>
   <div class="card my-2" id="post">
     <div class="card-header bg-white">
-      <img src="src/assets/avatar-3.png" class="avatar-img mr-2">
+      <img src="https://github.com/Mahi-7/git/blob/master/avatar-3.png?raw=true" class="avatar-img mr-2">
       <p class="ml-2 h6 font-weight-bold mt-2" >John Wick</p>
       <div class="ml-auto"><a class="text-light bg-info p-1" style="border-radius: 50px;" href="#">#mexicancity</a></div>
        <div class="dropdown">
@@ -168,7 +168,7 @@
     </div>
     <div class="card-body">
       <p class="card-text text-center font-weight-bold">
-          <img src="src/assets/2.jpeg" alt="" class="w-auto" />
+          <img src="https://github.com/Mahi-7/git/blob/master/2.jpeg?raw=true" alt="" class="w-auto" />
       </p>
       <hr/>
       <div>
@@ -198,7 +198,7 @@
   </div>
   <div class="card my-3" id="post">
     <div class="card-header bg-white">
-      <img src="src/assets/avatar-2.png" class="avatar-img mr-2">
+      <img src="https://github.com/Mahi-7/git/blob/master/avatar-2.png?raw=true" class="avatar-img mr-2">
       <p class="ml-2 h6 font-weight-bold mt-2" >Robert</p>
       <div class="ml-auto"><a class="text-light bg-info p-1" style="border-radius: 50px;" href="#">#rainforestamazon</a></div>
        <div class="dropdown">
@@ -217,7 +217,7 @@
     </div>
     <div class="card-body">
       <p class="card-text text-center font-weight-bold">
-          <img src="src/assets/1.jpeg" alt="" class="w-auto" />
+          <img src="https://github.com/Mahi-7/git/blob/master/1.jpeg?raw=true" alt="" class="w-auto" />
       </p>
       <hr/>
       <div>

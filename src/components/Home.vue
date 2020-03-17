@@ -11,7 +11,7 @@
                   class="mx-auto"
                   activeClass="active"
                   ><a class="nav-link text-secondary"
-                    ><img src="src/assets/search.png" class="mr-2"/>Search</a
+                    ><img src="https://github.com/Mahi-7/git/blob/master/search.png?raw=true" class="mr-2"/>Search</a
                 ></router-link>
                 <router-link
                   to="/search"
@@ -19,7 +19,7 @@
                   class="mx-auto"
                   activeClass="active"
                   ><a class="nav-link text-secondary"
-                    ><img src="src/assets/share.png" class="mr-2"/>Share Joy</a
+                    ><img src="https://github.com/Mahi-7/git/blob/master/share.png?raw=true" class="mr-2"/>Share Joy</a
                 ></router-link>
                 <router-link
                   to="/search"
@@ -27,7 +27,7 @@
                   class="mx-auto"
                   activeClass="active"
                   ><a class="nav-link text-secondary"
-                    ><img src="src/assets/meeting.png" class="mr-2"/>Meet Up</a
+                    ><img src="https://github.com/Mahi-7/git/blob/master/meeting.png?raw=true" class="mr-2"/>Meet Up</a
                 ></router-link>
                 <router-link
                   to="/search"
@@ -35,7 +35,7 @@
                   class="mx-auto"
                   activeClass="active"
                   ><a class="nav-link text-secondary"
-                    ><img src="src/assets/help.png" class="mr-2"/>Seek Help</a
+                    ><img src="https://github.com/Mahi-7/git/blob/master/help.png?raw=true" class="mr-2"/>Seek Help</a
                 ></router-link>
                 <router-link
                   to="/search"
@@ -43,7 +43,7 @@
                   class="mx-auto"
                   activeClass="active"
                   ><a class="nav-link text-secondary"
-                    ><img src="src/assets/postcard.png" class="mr-2"/>Post</a
+                    ><img src="https://github.com/Mahi-7/git/blob/master/postcard.png?raw=true" class="mr-2"/>Post</a
                 ></router-link>
                 <router-link
                   to="/search"
@@ -51,7 +51,7 @@
                   class="mx-auto"
                   activeClass="active"
                   ><a class="nav-link text-secondary"
-                    ><img src="src/assets/bell.png" class="mr-2"/>Notifications</a
+                    ><img src="https://github.com/Mahi-7/git/blob/master/bell.png?raw=true" class="mr-2"/>Notifications</a
                 ></router-link>
                 <router-link
                   to="/search"
@@ -59,7 +59,7 @@
                   class="mx-auto"
                   activeClass="active"
                   ><a class="nav-link text-secondary"
-                    ><img src="src/assets/favorite.png" class="mr-2"/>Favorites</a
+                    ><img src="https://github.com/Mahi-7/git/blob/master/favorite.png?raw=true" class="mr-2"/>Favorites</a
                 ></router-link>
                 <router-link
                   to="/search"
@@ -67,7 +67,7 @@
                   class="mx-auto"
                   activeClass="active"
                   ><a class="nav-link text-secondary"
-                    ><img src="src/assets/suggestion.png" class="mr-2"/>Suggestions</a
+                    ><img src="https://github.com/Mahi-7/git/blob/master/suggestion.png?raw=true" class="mr-2"/>Suggestions</a
                 ></router-link>
             </div>
           </ul>
@@ -88,19 +88,19 @@
   <!-- The slideshow -->
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="src/assets/c-0.jpeg" alt="Los Angeles" width="600" height="200">
+      <img src="https://github.com/Mahi-7/git/blob/master/c-0.jpeg?raw=true" alt="Los Angeles" width="600" height="200">
     </div>
     <div class="carousel-item">
-      <img src="src/assets/c-1.jpeg" alt="Chicago" width="600" height="200">
+      <img src="https://github.com/Mahi-7/git/blob/master/c-1.jpeg?raw=true" alt="Chicago" width="600" height="200">
     </div>
     <div class="carousel-item">
-      <img src="src/assets/c-2.jpeg" alt="New York" width="600" height="200">
+      <img src="https://github.com/Mahi-7/git/blob/master/c-2.jpeg?raw=true" alt="New York" width="600" height="200">
     </div>
     <div class="carousel-item">
-      <img src="src/assets/c-3.jpeg" alt="New York" width="600" height="200">
+      <img src="https://github.com/Mahi-7/git/blob/master/c-3.jpeg?raw=true" alt="New York" width="600" height="200">
     </div>
     <div class="carousel-item">
-      <img src="src/assets/c-4.jpeg" alt="New York" width="600" height="200">
+      <img src="https://github.com/Mahi-7/git/blob/master/c-4.jpeg?raw=true" alt="New York" width="600" height="200">
     </div>
   </div>
   
@@ -128,12 +128,12 @@
     <p class="mx-1 px-2 font-weight-bold">Recent Chats</p>
     <hr class="" style="width: 90%;">
     <ul class="nav a-2x">
-      <li><img src="src/assets/avatar.png" class="avatar-img mr-3">Ralph</li>
-      <li><img src="src/assets/avatar-1.png" class="avatar-img mr-3">Alexa</li>
-      <li><img src="src/assets/avatar-2.png" class="avatar-img mr-3">Robert</li>
-      <li><img src="src/assets/avatar-3.png" class="avatar-img mr-3">John Wick</li>
-      <li class="mr-4"><img src="src/assets/avatar-4.png" class="avatar-img mr-3">Ninja</li>
-      <li><img src="src/assets/avatar-5.png" class="avatar-img mr-3">Siri</li>
+      <li><img src="https://github.com/Mahi-7/git/blob/master/avatar.png?raw=true" class="avatar-img mr-3">Ralph</li>
+      <li><img src="https://github.com/Mahi-7/git/blob/master/avatar-1.png?raw=true" class="avatar-img mr-3">Alexa</li>
+      <li><img src="https://github.com/Mahi-7/git/blob/master/avatar-2.png?raw=true" class="avatar-img mr-3">Robert</li>
+      <li><img src="https://github.com/Mahi-7/git/blob/master/avatar-3.png?raw=true" class="avatar-img mr-3">John Wick</li>
+      <li class="mr-4"><img src="https://github.com/Mahi-7/git/blob/master/avatar-4.png?raw=true" class="avatar-img mr-3">Ninja</li>
+      <li><img src="https://github.com/Mahi-7/git/blob/master/avatar-5.png?raw=true" class="avatar-img mr-3">Siri</li>
     </ul>
   </div>
   <hr class="w-100">
@@ -141,12 +141,12 @@
     <p class="mx-1 px-2 font-weight-bold">Group Chats</p>
     <hr class="" style="width: 90%;">
     <ul class="nav a-2x">
-      <li><img src="src/assets/avatar.png" class="avatar-img mr-3">Gold Group</li>
-      <li><img src="src/assets/avatar-1.png" class="avatar-img mr-3">Bronze Group</li>
-      <li><img src="src/assets/avatar-2.png" class="avatar-img mr-3">Silver Group</li>
-      <li><img src="src/assets/avatar-3.png" class="avatar-img mr-3">Late Group</li>
-      <li><img src="src/assets/avatar-4.png" class="avatar-img mr-3">Shine Group</li>
-      <li><img src="src/assets/avatar-5.png" class="avatar-img mr-3">Air Group</li>
+      <li><img src="https://github.com/Mahi-7/git/blob/master/avatar.png?raw=true" class="avatar-img mr-3">Gold Group</li>
+      <li><img src="https://github.com/Mahi-7/git/blob/master/avatar-1.png?raw=true" class="avatar-img mr-3">Bronze Group</li>
+      <li><img src="https://github.com/Mahi-7/git/blob/master/avatar-2.png?raw=true" class="avatar-img mr-3">Silver Group</li>
+      <li><img src="https://github.com/Mahi-7/git/blob/master/avatar-3.png?raw=true" class="avatar-img mr-3">Late Group</li>
+      <li><img src="https://github.com/Mahi-7/git/blob/master/avatar-4.png?raw=true" class="avatar-img mr-3">Shine Group</li>
+      <li><img src="https://github.com/Mahi-7/git/blob/master/avatar-5.png?raw=true" class="avatar-img mr-3">Air Group</li>
     </ul>
   </div>
 </div>
